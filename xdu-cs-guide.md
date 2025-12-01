@@ -23,6 +23,10 @@ tags: [西电, 计算机科学与技术, 指北]
 
   [实验参考](https://blog.csdn.net/m0_74394735/article/details/144010099)
 
+* 数据库系统
+
+  [大作业参考](https://blog.csdn.net/Astrid_5211/article/details/144526124)
+
 ## 说明
 
 或许会持续更新？
