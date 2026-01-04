@@ -1,6 +1,7 @@
 ---
 title: Gemini pro 学生认证一年使用指南
 tags: [Gemini, 学生认证, 指南]
+updated: 2025-12-01
 ---
 
 ## 需要
