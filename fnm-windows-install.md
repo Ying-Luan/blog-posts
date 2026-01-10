@@ -4,6 +4,8 @@ tags: [fnm]
 updated: 2026-01-04
 ---
 
+---
+
 ## 介绍
 
 fnm (Fast Node Manager) ，快速简便的 No​​de.js 版本管理器，使用 Rust 构建，类似于 nvm，但它更快且易于使用。
