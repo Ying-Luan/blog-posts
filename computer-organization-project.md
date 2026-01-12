@@ -10,19 +10,19 @@ updated: 2025-12-01
 
 ### 指令设计
 
-![指令设计](./assets/instruction_design.png)
+![指令设计](./assets/computer-organization-project/instruction_design.png)
 
 ### 流程图
 
-![流程图](./assets/flow_chart.png)
+![流程图](./assets/computer-organization-project/flow_chart.png)
 
 ### ROM 内容
 
-![ROM 内容](./assets/rom_content.png)
+![ROM 内容](./assets/computer-organization-project/rom_content.png)
 
 ### RAM 内容
 
-![RAM 内容](./assets/ram_content.png)
+![RAM 内容](./assets/computer-organization-project/ram_content.png)
 
 ## 实验结果
 

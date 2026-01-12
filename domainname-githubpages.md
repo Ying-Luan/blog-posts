@@ -76,3 +76,8 @@ GitHub Pages 允许用户使用自定义域名来访问他们的站点，而不�
    回到 GitHub 仓库，进入`Settings`->`Github Pages`，在`Custom domain`输入框中输入你的自定义域名`example.cc`，点击`Save`保存。
 
    Github 会自动进行 DNS 检查，但其实无关紧要，现在已经可以访问你的自定义域名了，如果不行，尝试清除浏览器缓存或等待 DNS 生效。
+
+## 参考
+
+* [Spaceship 官网](https://www.spaceship.com/)
+* [Cloudflare 官网](https://www.cloudflare.com/)
