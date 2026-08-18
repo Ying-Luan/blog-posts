@@ -1,6 +1,6 @@
 ---
 title: fnm Windows 安装指南
-tags: [fnm]
+tags: [fnm, Windows]
 updated: 2026-01-04
 ---
 
